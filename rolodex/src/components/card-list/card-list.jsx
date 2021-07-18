@@ -1,4 +1,4 @@
-import './card-list.css';
+import './card-list.style.css';
 import {Card} from '../card/card';
 import React from 'react';
 

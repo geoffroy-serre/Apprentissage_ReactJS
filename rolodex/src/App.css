@@ -1,9 +1,14 @@
 body {
-  padding: 30px 0;
-  background-color:aliceblue;
+    padding: 30px 0;
 }
 
 .App {
-  text-align: center;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Emilys Candy';
+    font-size: 72px;
+    color: #47c2bc;
 }
 
