@@ -6,11 +6,4 @@ body {
 .App {
   text-align: center;
 }
-.search{
-  border:none;
-  outline:none;
-  padding:5px;
-  width:200px;
-  line-height:30px;
-  margin-bottom: 15px;
-}
+
