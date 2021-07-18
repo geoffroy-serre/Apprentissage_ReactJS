@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Apprentissage_ReactJS/index.html/static/css/main.91e81b5c.chunk.css",
-    "main.js": "/Apprentissage_ReactJS/index.html/static/js/main.56b1a7da.chunk.js",
-    "main.js.map": "/Apprentissage_ReactJS/index.html/static/js/main.56b1a7da.chunk.js.map",
-    "runtime-main.js": "/Apprentissage_ReactJS/index.html/static/js/runtime-main.e11a291c.js",
-    "runtime-main.js.map": "/Apprentissage_ReactJS/index.html/static/js/runtime-main.e11a291c.js.map",
-    "static/js/2.f63251a0.chunk.js": "/Apprentissage_ReactJS/index.html/static/js/2.f63251a0.chunk.js",
-    "static/js/2.f63251a0.chunk.js.map": "/Apprentissage_ReactJS/index.html/static/js/2.f63251a0.chunk.js.map",
-    "static/js/3.fe3febab.chunk.js": "/Apprentissage_ReactJS/index.html/static/js/3.fe3febab.chunk.js",
-    "static/js/3.fe3febab.chunk.js.map": "/Apprentissage_ReactJS/index.html/static/js/3.fe3febab.chunk.js.map",
-    "index.html": "/Apprentissage_ReactJS/index.html/index.html",
-    "static/css/main.91e81b5c.chunk.css.map": "/Apprentissage_ReactJS/index.html/static/css/main.91e81b5c.chunk.css.map",
-    "static/js/2.f63251a0.chunk.js.LICENSE.txt": "/Apprentissage_ReactJS/index.html/static/js/2.f63251a0.chunk.js.LICENSE.txt"
+    "main.css": "/Apprentissage_ReactJS/static/css/main.91e81b5c.chunk.css",
+    "main.js": "/Apprentissage_ReactJS/static/js/main.56b1a7da.chunk.js",
+    "main.js.map": "/Apprentissage_ReactJS/static/js/main.56b1a7da.chunk.js.map",
+    "runtime-main.js": "/Apprentissage_ReactJS/static/js/runtime-main.d84444a7.js",
+    "runtime-main.js.map": "/Apprentissage_ReactJS/static/js/runtime-main.d84444a7.js.map",
+    "static/js/2.f63251a0.chunk.js": "/Apprentissage_ReactJS/static/js/2.f63251a0.chunk.js",
+    "static/js/2.f63251a0.chunk.js.map": "/Apprentissage_ReactJS/static/js/2.f63251a0.chunk.js.map",
+    "static/js/3.fe3febab.chunk.js": "/Apprentissage_ReactJS/static/js/3.fe3febab.chunk.js",
+    "static/js/3.fe3febab.chunk.js.map": "/Apprentissage_ReactJS/static/js/3.fe3febab.chunk.js.map",
+    "index.html": "/Apprentissage_ReactJS/index.html",
+    "static/css/main.91e81b5c.chunk.css.map": "/Apprentissage_ReactJS/static/css/main.91e81b5c.chunk.css.map",
+    "static/js/2.f63251a0.chunk.js.LICENSE.txt": "/Apprentissage_ReactJS/static/js/2.f63251a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e11a291c.js",
+    "static/js/runtime-main.d84444a7.js",
     "static/js/2.f63251a0.chunk.js",
     "static/css/main.91e81b5c.chunk.css",
     "static/js/main.56b1a7da.chunk.js"
